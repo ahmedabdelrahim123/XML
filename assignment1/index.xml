@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Employees>
+	<heading>Employee's Data </heading>
+	<Employee>
+            <title>Title -:Employee1</title>
+	<name>name: ali</name>
+    <phone>phone:1111</phone>
+ <address>address:
+    <street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+    </address>
+        <email>email:ali@gmail.com</email>
+	</Employee>
+	<Employee>
+            <title>Title -:Employee2</title>
+	<name>name: sameh</name>
+    <phone>phone:33333</phone>
+ <address>address:
+    <street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+    </address>
+        <email>email:sameh@gmail.com</email>
+	</Employee>
+	<Employee>
+                <title>Title -:Employee3</title>
+	<name>name: samy</name>
+    <phones>phone:
+<phone type="home">home:0348424</phone>
+<phone type="work">work:133333</phone>
+<phone type="mobile">mobile:011114324</phone>
+</phones>
+ <address>address:
+    <street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+    </address>    <email>email:samy@gmail.com</email>
+	</Employee>
+	<Employee>
+                <title>Title -:Employee4</title>
+	<name>name: laila</name>
+ <phones>phone:
+<phone type="home">home:0348424</phone>
+<phone type="work">work:133333</phone>
+<phone type="mobile">mobile:011114324</phone>
+</phones>   
+ <address>address:
+    <street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+    </address>
+        <email>email:laila@gmail.com</email>
+	</Employee>
+	<Employee>
+                <title>Title -:Employee5</title>
+	<name>name:tom</name>
+ <phones>phone:
+<phone type="home">home:0348424</phone>
+<phone type="work">work:133333</phone>
+<phone type="mobile">mobile:011114324</phone>
+</phones>
+    <address>address:
+    <street>street</street>
+<buildingNo>10</buildingNo>
+<region>region</region>
+    </address>
+    <email>email:tom@gmail.com</email>
+	</Employee>
+</Employees>
